@@ -1,6 +1,6 @@
 # Tech Round
 
-### 1
+### 1.
   Q. To one decimal place, how many billion Euros was the fine handed to Google by the EU?
   
   A. 2.4bn euros

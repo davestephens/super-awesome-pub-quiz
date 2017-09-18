@@ -14,3 +14,9 @@
   Q. What year was Microsoft Windows 3.1 released?
   
   A. 1992
+
+### 4. 
+  Q. The Manhattan Project in the early 1940s was developing what?
+  
+  A. The Atomic Bomb
+

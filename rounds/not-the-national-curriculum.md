@@ -20,8 +20,8 @@ A. Pancreas
 ### 10.
 Q. Who was the first British doctor to invent a vaccine? Edward Jenner, William Harvey or Joseph Lister? 
 
-B. Bonus point for correctly naming what the vaccine aimed to cure?
+BQ. Bonus point for correctly naming what the vaccine aimed to cure?
 
 A. Edward Jenner
 
-Bonus - Smallpox
+BA. Smallpox

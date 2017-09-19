@@ -24,6 +24,8 @@ gcse question round, ie
 - http://www.independent.co.uk/life-style/health-and-families/can-you-answers-these-gcse-questions-correctly-a6740531.html
 - https://www.thesun.co.uk/living/3543283/gcse-questions-quiz/
 
+name the rag headline - pick a stupid headline and have to guess the person its about
+
 tie breaker ideas
 -----------------
 number of seconds until...

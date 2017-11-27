@@ -1,4 +1,4 @@
-# Tech Round
+# Science and Technology 
 
 ### 1.
   Q. To one decimal place, how many billion Euros was the fine handed to Google by the EU?

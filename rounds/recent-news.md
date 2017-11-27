@@ -14,9 +14,16 @@ Q. Which specific alcholic drink was targeted in the recent budget?
 A. Strong White Cider
 
 ### 4. 
-Q. How much was the random payment Uber reportedly paid to hackers?
+Q. How much was the ransom payment Uber reportedly paid to hackers in 2016?
 
 A. $100k
 
 ### 5. 
-Q. 
+Q. In the England - Australia Rugby Autumn International, what was the final score?
+
+A. England 30 - 6 Australia
+
+### 6. 
+Q. Microsoft have just released a new console. What's it called?
+
+A. Xbox One X

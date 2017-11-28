@@ -27,3 +27,24 @@ A. England 30 - 6 Australia
 Q. Microsoft have just released a new console. What's it called?
 
 A. Xbox One X
+
+### 7.
+Q. Prince Harry is to marry Meghan Markle, what american TV series is she famous for?
+
+A. Suits
+
+### 8. 
+Q. The vice-chancellor of which university has quit, facing accusations of excessive pay?
+
+A. Bath University
+
+
+### 9. 
+Q. What piece of clothing did Crispin School in Somerset say would help pupils to "achieve"?
+
+A. Shoes
+
+### 10.
+Q. What wholesaler went into administration this week?
+
+A. Palmer and Harvey

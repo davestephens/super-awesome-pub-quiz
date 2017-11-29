@@ -24,9 +24,9 @@ Q. In the England - Australia Rugby Autumn International, what was the final sco
 A. England 30 - 6 Australia
 
 ### 6. 
-Q. Microsoft have just released a new console. What's it called?
+Q. British explorer Benedict Allen caused concern following his failure to return on time from a trip deep into which country?
 
-A. Xbox One X
+A. Papua New Guinea
 
 ### 7.
 Q. Prince Harry is to marry Meghan Markle, what american TV series is she famous for?

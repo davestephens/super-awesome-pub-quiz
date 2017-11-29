@@ -46,7 +46,7 @@
   A. Jupiter
   
 ### 10.
-  Q. How many planets in our solar system are larger than the Earth?
+  Q. How many planets in our solar system are larger than Earth?
   
   QB. And what are they?
 

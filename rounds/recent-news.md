@@ -1,7 +1,9 @@
 ### 1.
 Q. Who recently topped the Forbes most powerful women list?
+QB. What job is she known for?
 
 A. Anna Wintour
+AB. Vogue Magazine
 
 ### 2.
 Q. What is the name of the new Zimbabwean president?

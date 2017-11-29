@@ -2,7 +2,7 @@
 
 Rounds
 ------
- - General Knowledge
+ - [General Knowledge](/rounds/general-knowledge.md)
  - Guess The Year
  - Music
  - Recent News

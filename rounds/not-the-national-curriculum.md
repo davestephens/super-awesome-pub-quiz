@@ -66,23 +66,3 @@ BA. Smallpox
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Solve 3x = 36
-12
-
-When exposed to a hot non-luminous flame (a flame test) sodium ions produce which colour?
-Yellow
-
